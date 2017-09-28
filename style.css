@@ -1,0 +1,33 @@
+.search {
+    max-width: 300px;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.article {
+    position: relative;
+    margin-bottom: 30px;
+    padding: 30px 30px 50px;
+    min-height: 240px;
+    height: 240px;
+    overflow-y: hidden;
+}
+
+.article_full {
+    height: auto;
+    padding-bottom: 120px;
+}
+
+.article__footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 60px 30px 30px;
+    background: linear-gradient(to bottom, transparent 0%, #fff 30%);
+}
+
+.article-form {
+    margin-bottom: 30px;
+}
